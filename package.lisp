@@ -1,4 +1,3 @@
-;;;;; -*- mode: lisp; syntax: common-lisp; coding: utf-8; base: 10; -*-
 ;;;;;
 ;;;;; 
 ;;;;; Author:      Dan Lentz, Lentz Intergalactic Softworks, Wed May  4 23:11:33 2011

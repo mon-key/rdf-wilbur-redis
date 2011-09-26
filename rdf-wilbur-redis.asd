@@ -1,4 +1,3 @@
-;;;;; -*- mode: lisp; syntax: common-lisp; coding: utf-8; base: 10; -*-
 ;;;;;
 ;;;;; persistent wilbur db and redis-mediator implementation for de.setf.resource
 ;;;;; supporting both simple rdf graph storage and CLOS RDF object model interface
